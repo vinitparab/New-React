@@ -12,7 +12,7 @@ const App = () => {
     copyTask.splice(idx, 1)
 
     setTask(copyTask)
-  }
+  } 
   return (
     <div className="bg-black text-white lg:flex h-screen">
       <form
